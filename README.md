@@ -1,6 +1,6 @@
 ### PDF Project (Client)
 
-##### To run on local machine
+### To run on local machine
 
 Clone this repository to local directory & run following commands
 
@@ -15,7 +15,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
 
-##### To deploy this app on Firebase
+### To deploy this app on Firebase
 
 Run 'npm run build' to create a production build & deploy using Firebase CLI
 
