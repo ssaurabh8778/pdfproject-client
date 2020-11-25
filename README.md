@@ -24,6 +24,6 @@ Run 'npm run build' to create a production build & deploy using Firebase CLI
 Builds the app for production to the `build` folder.\
 Your app is ready to be deployed!
 
-### 'firebase init'
+### `firebase init`
 
 You should be having firebase CLI installed. Hit 'fireabase init' and follow onscreen instructions for hosting.
