@@ -2,7 +2,11 @@
 
 ##### To run on local machine
 
-Clone this repository to local directory & run 'npm start'
+Clone this repository to local directory & run following commands
+
+### `npm install`
+
+To install all the required node modules.
 
 ### `npm start`
 
