@@ -1,4 +1,4 @@
-### PDF Project client
+### PDF Project (Client)
 
 ##### To run on local machine
 
